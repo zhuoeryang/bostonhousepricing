@@ -1,0 +1,18 @@
+==> 2025-04-07 22:22:16 <==
+# cmd: /opt/anaconda3/bin/conda create -p ./bostonprice python=3.7 -y
+# conda version: 24.5.0
++defaults/osx-64::ca-certificates-2025.2.25-hecd8cb5_0
++defaults/osx-64::certifi-2022.12.7-py37hecd8cb5_0
++defaults/osx-64::libffi-3.4.4-hecd8cb5_1
++defaults/osx-64::ncurses-6.4-hcec6c5f_0
++defaults/osx-64::openssl-1.1.1w-hca72f7f_0
++defaults/osx-64::pip-22.3.1-py37hecd8cb5_0
++defaults/osx-64::python-3.7.16-h218abb5_0
++defaults/osx-64::readline-8.2-hca72f7f_0
++defaults/osx-64::setuptools-65.6.3-py37hecd8cb5_0
++defaults/osx-64::sqlite-3.45.3-h6c40b1e_0
++defaults/osx-64::tk-8.6.14-h4d00af3_0
++defaults/osx-64::wheel-0.38.4-py37hecd8cb5_0
++defaults/osx-64::xz-5.6.4-h46256e1_1
++defaults/osx-64::zlib-1.2.13-h4b97444_1
+# update specs: ['python=3.7']
